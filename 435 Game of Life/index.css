@@ -1,0 +1,36 @@
+body {
+     font-family: Arial, sans-serif;
+     margin: 0;
+     padding: 0;
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     height: 100vh;
+ }
+
+ .container {
+     text-align: center;
+ }
+
+ #gameWorld {
+     background: white;
+     border: 1px solid black;
+ }
+
+ .controls {
+     margin-top: 20px;
+     text-align: center;
+ }
+
+ .fast {
+     margin-right: 10px;
+ }
+
+ .slow {
+     margin-left: 10px;
+ }
+
+ .speed-control {
+     width: 100px; /
+     margin: 0 10px;
+ }
